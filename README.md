@@ -73,12 +73,18 @@ You can view your deployed contract on the Amoy testnet Polygonscan using the fo
 
 [View Contract on Amoy Polygonscan](https://amoy.polygonscan.com/address/0xC218f04895585379438eBdAf99E55077B967801A#code)
 
+[View Contract on Amoy Polygonscan](https://amoy.polygonscan.com/address/0xb6b55d30fabE09863cF1E1d672D166268c034F23#code)
+
 ## Contract Address
 
 Your deployed contract address is:
 
 ```plaintext
 0xC218f04895585379438eBdAf99E55077B967801A
+```
+
+```plaintext
+0xb6b55d30fabE09863cF1E1d672D166268c034F23
 ```
 
 Make sure to replace this address with the one provided after your deployment if it's different.
